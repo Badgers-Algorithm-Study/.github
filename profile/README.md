@@ -7,7 +7,6 @@
 | [@hjun813](https://github.com/hjun813) | [@mingdul](https://github.com/mingdul) | [@NewOld21](https://github.com/NewOld21) | [@KE-GAM)](https://github.com/KE-GAM) | [@flaska99](https://github.com/flaska99>) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/hjun813" width="100"/> | <img src="https://avatars.githubusercontent.com/mingdul"  width="100"/> | <img src="https://avatars.githubusercontent.com/NewOld21" width="100"/> | <img src="https://avatars.githubusercontent.com/KE-GAM" width="100"/> | <img src="https://avatars.githubusercontent.com/flaska99" width="100"/> |
-
 | 김현준 | 장지민 | 김세헌 | 이원규 | 정승민|
 
 <br>
