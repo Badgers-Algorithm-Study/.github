@@ -1,6 +1,6 @@
 # Algorithm - Study
 
-> **사용 언어 : Python, JAVA** <br>
+> **사용 언어 : Python, JAVA, C++** <br>
 
 ## 팀원 소개
 
